@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <style>
+{
 background-color:black;
+}
 </style>
 <body>
 <p>Welcome To Github></p>
